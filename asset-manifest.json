@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/compare--with-love/static/css/main.609b39ea.css",
-    "main.js": "/compare--with-love/static/js/main.8c605219.js",
-    "static/js/787.b200e184.chunk.js": "/compare--with-love/static/js/787.b200e184.chunk.js",
-    "static/media/paris3.jpg": "/compare--with-love/static/media/paris3.db315e9f252403ad95ed.jpg",
-    "index.html": "/compare--with-love/index.html",
-    "main.609b39ea.css.map": "/compare--with-love/static/css/main.609b39ea.css.map",
-    "main.8c605219.js.map": "/compare--with-love/static/js/main.8c605219.js.map",
-    "787.b200e184.chunk.js.map": "/compare--with-love/static/js/787.b200e184.chunk.js.map"
+    "main.css": "/compare-with-love/static/css/main.6d897cc4.css",
+    "main.js": "/compare-with-love/static/js/main.0beef114.js",
+    "static/js/787.b200e184.chunk.js": "/compare-with-love/static/js/787.b200e184.chunk.js",
+    "static/media/paris3.jpg": "/compare-with-love/static/media/paris3.db315e9f252403ad95ed.jpg",
+    "index.html": "/compare-with-love/index.html",
+    "main.6d897cc4.css.map": "/compare-with-love/static/css/main.6d897cc4.css.map",
+    "main.0beef114.js.map": "/compare-with-love/static/js/main.0beef114.js.map",
+    "787.b200e184.chunk.js.map": "/compare-with-love/static/js/787.b200e184.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.609b39ea.css",
-    "static/js/main.8c605219.js"
+    "static/css/main.6d897cc4.css",
+    "static/js/main.0beef114.js"
   ]
 }
